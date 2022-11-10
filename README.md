@@ -13,11 +13,11 @@ pip install pyinstaller
 
 比如"D:\Repositories\Craps"
 
-![文件资源管理器](./Readme/资源管理器D.png)
+![文件资源管理器](./Readme/zyglqd.png)
 
 3.在搜索框内输入cmd并回车
 
-![cmd](./Readme/windows资源管理器搜索框cmd.png)
+![cmd](./Readme/zyglqcmd.png)
 
 4.输入如下命令开始编译
 
@@ -37,4 +37,4 @@ pyinstaller -F craps.py
 
 7.程序开始运行
 
-![开始运行](.\Readme\程序运行.png)
+![开始运行](.\Readme\cxyx.png)
