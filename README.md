@@ -10,3 +10,11 @@ pip install pyinstaller
 ```
 
 2.使用Windows资源管理器打开到项目位置
+
+比如"D:\Repositories\Craps"
+
+![](./readme/资源管理器D.png)
+
+3.在搜索框内输入cmd并回车
+
+![](./readme/windows资源管理器搜索框cmd.png)
