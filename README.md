@@ -13,8 +13,28 @@ pip install pyinstaller
 
 比如"D:\Repositories\Craps"
 
-![](./readme/资源管理器D.png)
+![](./Readme/资源管理器D.png)
 
 3.在搜索框内输入cmd并回车
 
-![](./readme/windows资源管理器搜索框cmd.png)
+![](./Readme/windows资源管理器搜索框cmd.png)
+
+4.输入如下命令开始编译
+
+```bash
+pyinstaller -F craps.py
+```
+
+![](.\Readme\cmdpyinstallercraps.py.png)
+
+5.打开目录下的dist文件夹
+
+![](./Readme/opendist.png)
+
+6.打开目录下的craps.exe
+
+![](./Readme/opencraps.png)
+
+7.程序开始运行
+
+![](./Readme/程序运行.png)
